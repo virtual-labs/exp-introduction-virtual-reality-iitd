@@ -1,0 +1,123 @@
+
+/home/runner/work/exp-introduction-virtual-reality-iitd/exp-introduction-virtual-reality-iitd/experiment/simulation/main.js
+    14:10  warning  'navNext1' is defined but never used        no-unused-vars
+    23:10  warning  'navNext1a' is defined but never used       no-unused-vars
+    31:10  warning  'sel1' is defined but never used            no-unused-vars
+    40:10  warning  'sel1x' is defined but never used           no-unused-vars
+    49:10  warning  'navNext2a' is defined but never used       no-unused-vars
+    57:10  warning  'sel2' is defined but never used            no-unused-vars
+    68:10  warning  'sel2x' is defined but never used           no-unused-vars
+    80:10  warning  'sel3' is defined but never used            no-unused-vars
+    91:10  warning  'sel3x' is defined but never used           no-unused-vars
+   102:10  warning  'navNext2' is defined but never used        no-unused-vars
+   116:10  warning  'navNext3' is defined but never used        no-unused-vars
+   137:10  warning  'navNext4' is defined but never used        no-unused-vars
+   150:10  warning  'navNext5' is defined but never used        no-unused-vars
+   159:10  warning  'navNextx5' is defined but never used       no-unused-vars
+   194:10  warning  'navNext6' is defined but never used        no-unused-vars
+   205:10  warning  'navNext7' is defined but never used        no-unused-vars
+   216:10  warning  'navNext8' is defined but never used        no-unused-vars
+   240:10  warning  'navNext9' is defined but never used        no-unused-vars
+   255:10  warning  'navNext10' is defined but never used       no-unused-vars
+   271:10  warning  'navNext11' is defined but never used       no-unused-vars
+   288:10  warning  'navNext12' is defined but never used       no-unused-vars
+   304:10  warning  'navNext13' is defined but never used       no-unused-vars
+   320:10  warning  'navNext14' is defined but never used       no-unused-vars
+   337:10  warning  'navNext15' is defined but never used       no-unused-vars
+   346:1   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   347:1   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   351:10  warning  'navNext16' is defined but never used       no-unused-vars
+   367:10  warning  'navNext17' is defined but never used       no-unused-vars
+   391:10  warning  'startpressure2' is defined but never used  no-unused-vars
+   430:10  warning  'start_load' is defined but never used      no-unused-vars
+   454:9   warning  '$' is not defined                          no-undef
+   471:10  warning  'navNext9a' is defined but never used       no-unused-vars
+   482:10  warning  'navNexxt10' is defined but never used      no-unused-vars
+   506:10  warning  'navNexttt11' is defined but never used     no-unused-vars
+   525:10  warning  'navNextt12' is defined but never used      no-unused-vars
+   542:10  warning  'reset' is defined but never used           no-unused-vars
+   568:10  warning  'agesizeIn' is defined but never used       no-unused-vars
+   588:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   601:10  warning  'ageIn' is defined but never used           no-unused-vars
+   634:10  warning  'frequency' is defined but never used       no-unused-vars
+   655:13  warning  'matsqr' is already defined                 no-redeclare
+   656:13  warning  'natsqr' is already defined                 no-redeclare
+   662:13  warning  'matsqr' is already defined                 no-redeclare
+   663:13  warning  'natsqr' is already defined                 no-redeclare
+   669:13  warning  'matsqr' is already defined                 no-redeclare
+   670:13  warning  'natsqr' is already defined                 no-redeclare
+   681:5   warning  'x2' is not defined                         no-undef
+   682:13  warning  'x2' is not defined                         no-undef
+   710:10  warning  'agesizeIn2' is defined but never used      no-unused-vars
+   743:10  warning  'ageIn2' is defined but never used          no-unused-vars
+   776:10  warning  'frequency2' is defined but never used      no-unused-vars
+   797:13  warning  'matsqr' is already defined                 no-redeclare
+   798:13  warning  'natsqr' is already defined                 no-redeclare
+   804:13  warning  'matsqr' is already defined                 no-redeclare
+   805:13  warning  'natsqr' is already defined                 no-redeclare
+   811:13  warning  'matsqr' is already defined                 no-redeclare
+   812:13  warning  'natsqr' is already defined                 no-redeclare
+   823:5   warning  'x2' is not defined                         no-undef
+   824:13  warning  'x2' is not defined                         no-undef
+   852:10  warning  'agesizeIn3' is defined but never used      no-unused-vars
+   885:10  warning  'ageIn3' is defined but never used          no-unused-vars
+   918:10  warning  'frequency3' is defined but never used      no-unused-vars
+   939:13  warning  'matsqr' is already defined                 no-redeclare
+   940:13  warning  'natsqr' is already defined                 no-redeclare
+   946:13  warning  'matsqr' is already defined                 no-redeclare
+   947:13  warning  'natsqr' is already defined                 no-redeclare
+   953:13  warning  'matsqr' is already defined                 no-redeclare
+   954:13  warning  'natsqr' is already defined                 no-redeclare
+   965:5   warning  'x2' is not defined                         no-undef
+   966:13  warning  'x2' is not defined                         no-undef
+  1574:10  warning  'tunnu' is defined but never used           no-unused-vars
+  1581:27  warning  'size' is not defined                       no-undef
+  1589:32  warning  'size' is not defined                       no-undef
+  1612:10  warning  'submit11' is defined but never used        no-unused-vars
+  1621:10  warning  'addpiler1' is defined but never used       no-unused-vars
+  1659:10  warning  'movereber' is defined but never used       no-unused-vars
+  1686:10  warning  'addvarniar1' is defined but never used     no-unused-vars
+  1820:10  warning  'addgrip1' is defined but never used        no-unused-vars
+  1834:10  warning  'addreber' is defined but never used        no-unused-vars
+  1853:10  warning  'fitmachine' is defined but never used      no-unused-vars
+  1870:10  warning  'movepiler1' is defined but never used      no-unused-vars
+  1888:10  warning  'movepiler2' is defined but never used      no-unused-vars
+  1904:10  warning  'movebeam1' is defined but never used       no-unused-vars
+  1921:10  warning  'addpiler2' is defined but never used       no-unused-vars
+  1944:10  warning  'addbeam2' is defined but never used        no-unused-vars
+  1961:10  warning  'movepiler1s2' is defined but never used    no-unused-vars
+  1981:10  warning  'movepiler2s2' is defined but never used    no-unused-vars
+  2000:10  warning  'movebeam2' is defined but never used       no-unused-vars
+  2018:10  warning  'addpiler3' is defined but never used       no-unused-vars
+  2041:10  warning  'addbeam3' is defined but never used        no-unused-vars
+  2060:10  warning  'movepiler1s3' is defined but never used    no-unused-vars
+  2080:10  warning  'movepiler2s3' is defined but never used    no-unused-vars
+  2096:10  warning  'movebeam3' is defined but never used       no-unused-vars
+  2111:10  warning  'measurelength' is defined but never used   no-unused-vars
+  2132:10  warning  'measurelength1' is defined but never used  no-unused-vars
+  2154:10  warning  'measurelength2' is defined but never used  no-unused-vars
+  2174:10  warning  'measurelength3' is defined but never used  no-unused-vars
+  2207:10  warning  'measurelength4' is defined but never used  no-unused-vars
+  2245:10  warning  'measurelength5' is defined but never used  no-unused-vars
+  2279:10  warning  'measurelength6' is defined but never used  no-unused-vars
+  2312:10  warning  'measurelength7' is defined but never used  no-unused-vars
+  2329:10  warning  'measurelength8' is defined but never used  no-unused-vars
+  2340:8   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  2349:8   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  2358:10  warning  'measurelength9' is defined but never used  no-unused-vars
+  2370:8   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  2380:10  warning  'submit12' is defined but never used        no-unused-vars
+  2394:10  warning  'showgif' is defined but never used         no-unused-vars
+  2412:10  warning  'submit21' is defined but never used        no-unused-vars
+  2430:10  warning  'submit22' is defined but never used        no-unused-vars
+  2450:10  warning  'showif2' is defined but never used         no-unused-vars
+  2470:10  warning  'submit31' is defined but never used        no-unused-vars
+  2488:10  warning  'submit32' is defined but never used        no-unused-vars
+  2515:10  warning  'showgif3' is defined but never used        no-unused-vars
+  2535:10  warning  'showgraph1' is defined but never used      no-unused-vars
+  2540:9   warning  'Chartist' is not defined                   no-undef
+  2668:10  warning  'showgraph2' is defined but never used      no-unused-vars
+  2672:9   warning  'Chartist' is not defined                   no-undef
+
+✖ 118 problems (0 errors, 118 warnings)
+
