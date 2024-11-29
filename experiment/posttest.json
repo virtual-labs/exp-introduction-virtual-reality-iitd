@@ -1,13 +1,12 @@
 {
   "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
+  "questions": [{
+      "question": "1.  What is the primary goal of virtual reality (VR) technology?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "To simulate real-world experiences and environments for entertainment and training purposes.",
+        "b": "To create fully autonomous artificial intelligence.",
+        "c": "To develop advanced gaming consoles.",
+        "d": "To enhance traditional 2D media consumption."
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +18,29 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2.  Which of the following is NOT a component essential for a VR system?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Head-mounted display (HMD)",
+        "b": "Motion tracking sensors",
+        "c": "Game controller",
+        "d": "VR-ready computer or console"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. What distinguishes virtual reality from augmented reality?",
+      "answers": {
+        "a": "Augmented reality overlays digital content onto the real world, while virtual reality immerses users in a completely simulated environment.",
+        "b": "Virtual reality requires specialized hardware, while augmented reality can be experienced using standard smartphones or tablets.",
+        "c": "Virtual reality is only used for entertainment purposes, while augmented reality is primarily used for practical applications.",
+        "d": "Augmented reality is a subset of virtual reality, focusing on enhancing digital experiences within virtual environments."
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -35,5 +51,9 @@
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
+
+        
+    
+   
   ]
 }
