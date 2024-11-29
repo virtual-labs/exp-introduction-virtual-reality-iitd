@@ -1,11 +1,17 @@
-EMPTY
-<!-- Remove all lines above this line before making changes to the file -->
-### Subject Matter Experts
-| SNo. | Name | Email | Institute | ID |
-| :---: | :---: | :---: | :---: | :---: |
-| 1 | name | email | institute | id |
+### Lab Coordinator :
 
-### Developers
-| SNo. | Name | Email | Institute | ID |
-| :---: | :---: | :---: | :---: | :---: |
-| 1 | name | email | institute | id |
+| SNo. | Name | Institute |
+| :--: | :-- | :-------: |
+|  1   | Prof. Charu Monga | IIT Delhi |
+
+### Lab Developers (Coding):
+
+| SNo. | Name | Institute |
+| :--: | :-- | :-------: |
+|  1   | Prof. Charu Monga | IIT Delhi |
+
+### Content Developers (Subject matter):
+
+| SNo. | Name | Institute |
+| :--: | :-- | :-------: |
+|  1   | Prof. Charu Monga | IIT Delhi |
