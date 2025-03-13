@@ -3,6 +3,7 @@
 | SNo. | Name | Institute |
 | :--: | :-- | :-------: |
 |  1   | Prof. Charu Monga | IIT Delhi |
+|  1   | Prof. Charu Monga | IIT Delhi |
 
 ### Lab Developers (Coding):
 
