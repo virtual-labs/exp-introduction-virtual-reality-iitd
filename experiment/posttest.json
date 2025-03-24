@@ -1,12 +1,13 @@
 {
   "version": 2.0,
-  "questions": [{
-      "question": "1.  What is the primary goal of virtual reality (VR) technology?",
+  "questions": [
+    {
+      "question": "What is teleoperation in the context of VR?",
       "answers": {
-        "a": "To simulate real-world experiences and environments for entertainment and training purposes.",
-        "b": "To create fully autonomous artificial intelligence.",
-        "c": "To develop advanced gaming consoles.",
-        "d": "To enhance traditional 2D media consumption."
+        "a": "Telepathic communication through VR headsets",
+        "b": "Remote operations without physical presence",
+        "c": "Teleportation through VR",
+        "d": "Operation between two individuals with and without a VR headset"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -14,46 +15,65 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "2.  Which of the following is NOT a component essential for a VR system?",
+      "question": "How does VR technology enhance the storytelling experience?",
       "answers": {
-        "a": "Head-mounted display (HMD)",
-        "b": "Motion tracking sensors",
-        "c": "Game controller",
-        "d": "VR-ready computer or console"
+        "a": "Narrates story",
+        "b": "Interactive storytelling",
+        "c": "Shortens the length",
+        "d": "Modifies story",
+        "e": "None of the above"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
         "b": "Explanation 2",
         "c": "Explanation 2",
-        "d": "Explanation 2"
+        "d": "Explanation 2",
+        "e": "Explanation 2"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "3. What distinguishes virtual reality from augmented reality?",
+      "question": "How does VR technology enhance the education system?",
       "answers": {
-        "a": "Augmented reality overlays digital content onto the real world, while virtual reality immerses users in a completely simulated environment.",
-        "b": "Virtual reality requires specialized hardware, while augmented reality can be experienced using standard smartphones or tablets.",
-        "c": "Virtual reality is only used for entertainment purposes, while augmented reality is primarily used for practical applications.",
-        "d": "Augmented reality is a subset of virtual reality, focusing on enhancing digital experiences within virtual environments."
+        "a": "Reduces the need for classrooms",
+        "b": "Better understanding in immersive environments",
+        "c": "Reduces the need for teachers",
+        "d": "Focuses on theory only",
+        "e": "None of the above"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
         "b": "Explanation 2",
         "c": "Explanation 2",
-        "d": "Explanation 2"
+        "d": "Explanation 2",
+        "e": "Explanation 2"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which industry explores the integration of VR with wearable accessories to enhance performance-based experiences?",
+      "answers": {
+        "a": "Education",
+        "b": "Healthcare",
+        "c": "Entertainment",
+        "d": "Design and Architecture",
+        "e": "All of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2",
+        "e": "Explanation 2"
+      },
+      "correctAnswer": "e",
       "difficulty": "beginner"
     }
-
-        
-    
-   
   ]
 }

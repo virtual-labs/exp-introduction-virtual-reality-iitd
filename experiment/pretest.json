@@ -1,12 +1,52 @@
 {
   "version": 2.0,
-  "questions": [{
-      "question": "1. The Viewing Angle of VR is ",
+  "questions": [
+    {
+      "question": "Which industry uses VR applications for presentations and virtual walkthroughs?",
       "answers": {
-        "a": "180* Horizontal 90* vertical",
-        "b": "45* Horizontal 180* vertical ",
-        "c": "90* Horizontal 90* vertical",
-        "d": "180 degree horizontal 360 vertical"
+        "a": "Education",
+        "b": "Healthcare",
+        "c": "Entertainment",
+        "d": "Design and Architecture",
+        "e": "All of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2",
+        "e": "Explanation 2"
+      },
+      "correctAnswer": "e",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "One of the reasons the medical industry uses VR Technology is for?",
+      "answers": {
+        "a": "Stress reduction",
+        "b": "Construction management",
+        "c": "Environmental conservation",
+        "d": "Automotive design",
+        "e": "None of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2",
+        "e": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which industry uses VR technology for training in high-risk life and cost associated with their operations?",
+      "answers": {
+        "a": "Education",
+        "b": "Entertainment",
+        "c": "Aviation and mining",
+        "d": "Performing arts",
+        "e": "None of the above"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -14,10 +54,8 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     }
-   
-    
   ]
 }
