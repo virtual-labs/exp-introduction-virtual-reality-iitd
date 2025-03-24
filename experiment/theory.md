@@ -1,82 +1,46 @@
-### Theory
-<strong>Definition</strong>
+### Link your theory in here
 
-Virtual Reality (VR) is the fusion of two contrasting words, 'virtual' and 'reality,' encapsulating the essence of the experience it offers. It entails immersing oneself in a simulated world that feels convincingly real, facilitated by technology that tricks our senses into believing we inhabit an alternate reality. In essence, VR enables the sensation of genuine presence within a fabricated yet lifelike environment.
+Virtual Reality (VR) continues to evolve with advancements in technology, offering vast potential in various fields such as gaming, education, healthcare, training, and more. As technology improves, VR is becoming more immersive, affordable, and accessible to wider audiences, promising exciting prospects for its future applications and growth.
 
-<strong>Components of VR</strong>
-The detailed breakdown of the components that make up a typical Virtual Reality (VR) system:
-<br>
-<center>
-<img src="images/Fig15.png" height="180px"  width="960px" >
+VR offers an intuitive means of human-computer interaction, enabling users to engage and interact with simulated reality much like they would in the real world. Its applications span diverse fields such as Design, Architecture, Tourism, Entertainment, and beyond.
 
-### Fig. 1
-</center><br>
+Below are a few examples of the same: 
 
+#### 1. Design and Architectural Visualization
+Data visualization aims to render complex information into easily accessible visual representations. VR serves as an intuitive medium, allowing users to explore and interact with visualizations. Its sense of physical presence is instrumental in architectural walkthroughs, virtual tourism, and real-time three-dimensional object modeling.
 
-<strong>1. Head-Mounted Display (HMD):</strong>
-   - The HMD is the primary hardware for VR, worn on the head like goggles or a helmet.
-   - It contains small screens or lenses to display stereoscopic 3D images, creating the visual experience.
-   - Some HMDs also have built-in sensors for head tracking, allowing the system to adjust the displayed images based on the user's movements.
+- Unreal Engine Interactive Walkthrough Virtual Reality | Apartment Interior
+- Interactive Architecture Visualization | Interactive Virtual Tour | Unreal Engine
 
-<strong>2. Tracking System:</strong>
-   - Sensors or cameras track the user's movements and location in physical space.
-   - Inside-out tracking uses sensors on the HMD to monitor the user's movements without external devices.
-   - Outside-in tracking relies on external cameras or sensors placed in the environment to track the user's position and movements.
+#### 2. Medical Applications
+In the medical realm, VR aids in treating patients with phobias or mental disorders by providing controlled environments for confronting fears. It's also utilized for stress and anxiety reduction through meditation techniques. Alternative therapies based on VR contribute to mental and physical rehabilitation.
 
-<strong>3. Controllers and Input Devices:</strong>
-<center>
-<img src="images/Fig2.png" height="180px"  width="960px" ><br>
-<img src="images/Fig3.png" height="180px"  width="960px" >
-<img src="images/Fig4.png" height="180px"  width="960px" >
+- WhatsApp Video 2023-11-16 at 12.53.46 AM.mp4
+- Explore the Medical Metaverse with Elucis
 
-### Fig. 2
-</center><br>
+#### 3. Training and Simulation
+Industries like aviation and mining demand effective training methods due to high risks and costs. VR, initially used in flight simulators, helps professionals acclimate to technicalities. Surgeons, mining workers, and soldiers benefit from VR-based training systems.
 
+- Bosch Automated Driving VR Experience
+- Ex-Ground Handler Plays Airport Ground Handling Simulator VR
 
-   - Handheld controllers or gloves allow users to interact with the virtual environment.
-   - These devices can simulate hand movements, gestures, and manipulation of objects within the VR space.
+#### 4. Teleoperation
+Teleoperation enables remote operations without physical presence. VR facilitates remote operations from a controlled space using remote control systems. It proves valuable in hazardous or impractical environments (e.g., remote bomb diffusion, astronomical explorations).
 
-<strong>4. Audio System:</strong>
-   - Quality audio output enhances immersion by providing spatial, 3D audio cues.
-   - Surround sound headphones or speakers create a sense of presence by delivering realistic sounds from different directions.
+- Paradise VR - Ever wondered what a nuclear explosion would feel like?
 
-<strong>5. Graphics Processing Unit (GPU):</strong>
-   - Powerful computers or devices equipped with high-end GPUs render high-quality, real-time graphics for a smooth and immersive experience.
-   - GPUs handle the complex calculations required to generate the detailed visuals in VR.
+#### 5. Entertainment
+Entertainment introduced VR to a wider audience. VR games offer immersive experiences that cater to entertainment needs. Storytelling ventures into 360-degree videos, gaining popularity in immersive narratives.
 
-<strong>6. Software and Applications:</strong>
-   - VR experiences, games, simulations, and applications specifically designed for VR.
-   - These programs run on compatible platforms and offer a wide range of virtual experiences.
+- VR 360 EARTH 8K ULTRA HD • Virtual Reality Tour Around the World
+- 360° VR Spacewalk Experience | BBC HOME
 
-<strong>7. Haptic Feedback Devices:</strong>
-<center>
-<img src="images/Fig5.png" height="180px"  width="960px" >
+#### 6. Education
+VR enhances teaching and learning by presenting information in virtual environments, fostering interactive learning. Virtual field trips to museums and historic sites, simulation-based medical training, and tailored education for special needs are among its educational applications.
 
-### Fig. 3
-</center><br>
-   - Haptic technology provides tactile feedback, allowing users to feel sensations within the virtual environment.
-   - Devices such as gloves or vests use vibrations, pressure, or other methods to simulate the sense of touch.
+- [Pyramids of Egypt Virtual Tour | VR 360° Travel Experience](https://youtu.be/040cOwpgcQQ?si=N945u9CrTlRAy_BY)
 
-8. Peripherals & Cables: 
-<strong>1.	USB TypeC</strong>
+#### 7. Performing Arts
+[VR expands the possibilities for performance-based artists by integrating interactive elements](https://www.youtube.com/watch?v=G7Dt9ziemYA). Wearable accessories enhance the simulation experience, allowing artists to interact with their virtual environments in desired ways.
 
-<center>
-<img src="images/Fig6.png" height="180px"  width="960px" >
-
-### Fig. 4
-</center><br>
-<strong>2.	HDMI/Mini Display Port/Display Port Cable</strong>
-<center>
-<img src="images/Fig7.png" height="180px"  width="960px" ><img src="images/Fig8.png" height="180px"  width="960px" ><img src="images/Fig9.png" height="180px"  width="960px" >
-</center><br>
-
-<strong>3.	MicroUSB</strong>
-<center>
-<img src="images/Fig10.png" height="180px"  width="960px" >
-</center><br>
-
-<strong>4. WiFi Input and Output Connector (I/O Hub)</strong>
-
-<center>
-<img src="images/Fig11.png" height="180px"  width="960px" ><img src="images/Fig12.png" height="180px"  width="960px" >
-</center><br>
+---

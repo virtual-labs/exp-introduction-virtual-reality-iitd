@@ -1,9 +1,8 @@
-1. Jason Jerald. 2015. The VR Book: Human-Centered Design for Virtual Reality. Addison-Wesley Professional.
-2. William R. Sherman and Alan B. Craig. 2002. Understanding Virtual Reality: Interface, Application, and Design. Morgan Kaufmann Publishers Inc.
-3. Ronald T. Azuma. 1997. A Survey of Augmented Reality. Presence: Teleoperators and Virtual Environments 6, 4 (August 1997), 355–385. DOI:https://doi.org/10.1162/pres.1997.6.4.355
-4. Frederick P. Brooks Jr. 1999. Virtual Reality: Past, Present, and Future. Computer Graphics and Applications, IEEE 19, 6 (Nov/Dec 1999), 16–25. DOI:https://doi.org/10.1109/38.799723
+### Link your references in here
 
-
-
-
-
+1. Mack, K., & Ruud, R. (2019). *Unreal Engine 4 Virtual Reality Projects: Build Immersive, Real-World VR Applications Using UE4, C++, and Unreal Blueprints*. Packt Publishing Ltd.
+2. Chen, C., Yarmand, M., Singh, V., Sherer, M. V., Murphy, J. D., Zhang, Y., & Weibel, N. (2022, June). Exploring Needs and Design Opportunities for Virtual Reality-based Contour Delineations of Medical Structures. In *Companion of the 2022 ACM SIGCHI Symposium on Engineering Interactive Computing Systems* (pp. 19-25).
+3. Sportillo, D., Paljic, A., & Ojeda, L. (2018). Get Ready for Automated Driving Using Virtual Reality. *Accident Analysis & Prevention*, 118, 102-113.
+4. Popov, O. O., Iatsyshyn, A. V., Iatsyshyn, A. V., Kovach, V. O., Artemchuk, V. O., Gurieiev, V. O., ... & Kovalenko, V. V. (2021, July). Immersive Technology for Training and Professional Development of Nuclear Power Plants Personnel. *CEUR Workshop Proceedings*.
+5. Snelson, C., & Hsu, Y. C. (2020). Educational 360-Degree Videos in Virtual Reality: A Scoping Review of the Emerging Research. *TechTrends*, 64(3), 404-412.
+6. Stepanova, E. R., Quesnel, D., & Riecke, B. E. (2019). Space—a Virtual Frontier: How to Design and Evaluate a Virtual Reality Experience of the Overview Effect. *Frontiers in Digital Humanities*, 6, 403607.
