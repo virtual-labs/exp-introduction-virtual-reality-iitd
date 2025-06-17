@@ -3,19 +3,19 @@
 # Introduction to Virtual Reality
 
 ## What is Virtual Reality?
-![Virtual-Reality](./images/Virtual-Reality.png)
+<img src="./images/Virtual-Reality.png" alt="Virtual-Reality" width="350"/>
 
 ### Definition
 
 Virtual Reality (VR) is the fusion of two contrasting words, 'virtual' and 'reality,' encapsulating the essence of the experience it offers. It entails immersing oneself in a simulated world that feels convincingly real, facilitated by technology that tricks our senses into believing we inhabit an alternate reality. In essence, VR enables the sensation of genuine presence within a fabricated yet lifelike environment.
 
-In other words, Virtual Reality (VR) is a computer-generated simulation of an environment or experience that immerses users in a three-dimensional, interactive world. It's designed to stimulate the senses, creating an artificial environment that can be explored and interacted with as if it were real. VR typically involves the use of a headset or goggles that display a virtual environment to the user, often coupled with specialized gloves or controllers to enable interaction withinesasdas that environment. This technology has applications in gaming, education, training, healthcare, and various other industries, offering immersive and often highly engaging experiences.
+In other words, Virtual Reality (VR) is a computer-generated simulation of an environment or experience that immerses users in a three-dimensional, interactive world. It's designed to stimulate the senses, creating an artificial environment that can be explored and interacted with as if it were real. VR typically involves the use of a headset or goggles that display a virtual environment to the user, often coupled with specialized gloves or controllers to enable interaction within that environment. This technology has applications in gaming, education, training, healthcare, and various other industries, offering immersive and often highly engaging experiences.
 
 ## Components of VR
 
 The detailed breakdown of the components that make up a typical Virtual Reality (VR) system:
 
-![NVIDIA VR Headset Patent Found - PC Perspective](./images/NVIDIA-VR-Headset-Patent-Found-PC-Perspective.png)
+<img src="./images/NVIDIA-VR-Headset-Patent-Found-PC-Perspective.png" alt="NVIDIA VR Headset Patent Found - PC Perspective" width="350"/>
 
 NVIDIA VR Headset Patent Found - PC Perspective
 
@@ -31,9 +31,9 @@ NVIDIA VR Headset Patent Found - PC Perspective
 
 ### 3. Controllers and Input Devices
 
-![Controllers-1](./images/Controllers-1.png)
-![Controllers-2](./images/Controllers-2.png)
-![Controllers-3](./images/Controllers-3.png)
+<img src="./images/Controllers-1.png" alt="Controllers-1" width="200"/>
+<img src="./images/Controllers-2.png" alt="Controllers-2" width="200"/>
+<img src="./images/Controllers-3.png" alt="Controllers-3" width="200"/>
 
 - Handheld controllers or gloves allow users to interact with the virtual environment.
 - These devices can simulate hand movements, gestures, and manipulation of objects within the VR space.
@@ -52,7 +52,7 @@ NVIDIA VR Headset Patent Found - PC Perspective
 
 ### 7. Haptic Feedback Devices
 
-![Haptic-Feedback-Devices](./images/Haptic-Feedback-Devices.png)
+<img src="./images/Haptic-Feedback-Devices.png" alt="Haptic-Feedback-Devices" width="400"/>
 
 - Haptic technology provides tactile feedback, allowing users to feel sensations within the virtual environment.
 - Devices such as gloves or vests use vibrations, pressure, or other methods to simulate the sense of touch.
@@ -61,21 +61,21 @@ NVIDIA VR Headset Patent Found - PC Perspective
 
 - **USB Type-C**
 
-![Type-C-Cable](./images/Type-C-Cable.png)
+<img src="./images/Type-C-Cable.png" alt="Type-C-Cable" width="200"/>
 
 - **HDMI/Mini Display Port/Display Port Cable**
 
-![HDMI](./images/HDMI.png)
-![Display-Port](./images/Display-Port.png)
-![Display-Port-Cable](./images/Display-Port-Cable.png)
+<img src="./images/HDMI.png" alt="HDMI" width="120"/>
+<img src="./images/Display-Port.png" alt="Display-Port" width="120"/>
+<img src="./images/Display-Port-Cable.png" alt="Display-Port-Cable" width="120"/>
 
 - **MicroUSB**
 
-![Micro-USB](./images/Micro-USB.png)
+<img src="./images/Micro-USB.png" alt="Micro-USB" width="120"/>
 
 - **WiFi**
 
 - **Input and Output Connector (I/O Hub)**
 
-![power-bank](./images/power-bank.png)
-![Connecting Hub](./images/Connecting-Hub.png)
+<img src="./images/power-bank.png" alt="power-bank" width="120"/>
+<img src="./images/Connecting-Hub.png" alt="Connecting Hub" width="120"/>
