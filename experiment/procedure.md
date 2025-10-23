@@ -45,7 +45,7 @@ Connecting a virtual reality (VR) system involves several steps, which may vary 
 **Note:**
 - These steps are general, and specific instructions may vary by VR hardware brand and model. Refer to the manufacturer’s guidelines for accurate details.
 
-![VR Headsets by various brands](/experiment/images/think-reality.png)
+![VR Headsets by various brands](/experiment/images/VR-Headsets.webp)
 
 - Some VR systems support networking for multi-user shared virtual spaces, enabling collaborative or social experiences.
 - VR components work together to engage multiple senses, creating a realistic virtual world.
@@ -255,7 +255,8 @@ AR involves experiencing a real-world environment augmented with virtual element
 ## VR in Research
 Virtual Reality (VR) enables immersive, controlled experiments across psychology, medicine, and engineering, enhancing engagement and safety. Challenges include high costs, technical limitations, and ethical considerations, with future advancements focusing on AI integration and accessibility.
 
-![VR in Research](/experiment/images/vr-in-research.png)
+![VR in Research](/experiment/images/VR-Research.webp)
+
 
 
 
