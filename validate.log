@@ -1,0 +1,14 @@
+{
+  _: [],
+  f: [
+    '/home/mediatechlab/Documents/Virtual-Labs/exp-introduction-virtual-reality-iitd/experiment-descriptor.json'
+  ],
+  files: [
+    '/home/mediatechlab/Documents/Virtual-Labs/exp-introduction-virtual-reality-iitd/experiment-descriptor.json'
+  ],
+  '$0': 'validate'
+}
+Json Error: There are additional properties
+Json Error: must match "then" schema
+Failed while validating /home/mediatechlab/Documents/Virtual-Labs/exp-introduction-virtual-reality-iitd/experiment-descriptor.json
+Error: Schema is Invalid
