@@ -30,6 +30,18 @@
         "d": "Augmented reality is a subset of virtual reality, focusing on enhancing digital experiences within virtual environments."
       },
       "correctAnswer": "a"
-    }
+    },
+    {
+      "question": "Which of the following is NOT an application of VR in healthcare?",
+      "answers": {
+        "a": "Surgical simulation",
+        "b": "Pain management",
+        "c": "Virtual therapy for mental health",
+        "d": "Improving car fuel efficiency"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
   ]
 }
+
